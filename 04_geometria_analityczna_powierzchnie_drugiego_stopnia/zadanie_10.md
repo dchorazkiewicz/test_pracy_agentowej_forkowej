@@ -1,13 +1,7 @@
 # Zadanie 10
 
-Sprowadź równanie
-
-$$4x^2+9y^2+36z^2=36$$
-
-do postaci kanonicznej i rozpoznaj powierzchnię.
+Sprawdź, czy punkt $P=(1,2,2)$ należy do sfery $x^2+y^2+z^2=9$.
 
 ## Odpowiedź
 
 <!-- Wpisz rozwiązanie poniżej. -->
-
-

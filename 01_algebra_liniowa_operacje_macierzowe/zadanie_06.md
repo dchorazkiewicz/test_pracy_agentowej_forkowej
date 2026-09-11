@@ -1,13 +1,14 @@
 # Zadanie 6
 
-Dla macierzy
+Wyznacz macierz transponowaną $A^T$ dla
 
-$$A=\begin{pmatrix}1&2&3\\-1&0&4\end{pmatrix}$$
-
-wyznacz macierz transponowaną $A^T$.
+```math
+A=\begin{pmatrix}
+1 & 2 & 3 \\
+-1 & 0 & 4
+\end{pmatrix}.
+```
 
 ## Odpowiedź
 
 <!-- Wpisz rozwiązanie poniżej. -->
-
-

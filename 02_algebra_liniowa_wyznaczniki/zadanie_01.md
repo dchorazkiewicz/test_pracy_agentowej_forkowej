@@ -2,10 +2,13 @@
 
 Oblicz wyznacznik macierzy
 
-$$A=\begin{pmatrix}3&2\\1&4\end{pmatrix}.$$
+```math
+A=\begin{pmatrix}
+3 & 2 \\
+1 & 4
+\end{pmatrix}.
+```
 
 ## Odpowiedź
 
 <!-- Wpisz rozwiązanie poniżej. -->
-
-

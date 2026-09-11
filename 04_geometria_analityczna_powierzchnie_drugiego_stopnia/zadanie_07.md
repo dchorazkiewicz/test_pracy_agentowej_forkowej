@@ -1,13 +1,7 @@
 # Zadanie 7
 
-Dla elipsoidy
-
-$$\frac{x^2}{25}+\frac{y^2}{9}+\frac{z^2}{4}=1$$
-
-wyznacz punkty przecięcia z osiami układu współrzędnych.
+Sprowadź równanie $x^2+y^2+z^2-4x+2y-6z=2$ do postaci kanonicznej i podaj środek oraz promień powierzchni.
 
 ## Odpowiedź
 
 <!-- Wpisz rozwiązanie poniżej. -->
-
-

@@ -1,13 +1,14 @@
 # Zadanie 3
 
-Dla macierzy
+Oblicz macierz $3A$, gdzie
 
-$$A=\begin{pmatrix}2&-1\\3&4\end{pmatrix}$$
-
-oblicz macierz $3A$.
+```math
+A=\begin{pmatrix}
+2 & -1 \\
+0 & 4
+\end{pmatrix}.
+```
 
 ## Odpowiedź
 
 <!-- Wpisz rozwiązanie poniżej. -->
-
-

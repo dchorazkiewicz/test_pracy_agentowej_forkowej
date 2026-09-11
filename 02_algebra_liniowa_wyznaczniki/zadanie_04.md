@@ -1,11 +1,14 @@
 # Zadanie 4
 
-Oblicz wyznacznik macierzy
+Wyznacz wartości parametru $a$, dla których
 
-$$A=\begin{pmatrix}2&-1&0\\3&4&1\\0&2&5\end{pmatrix}.$$
+```math
+\det\begin{pmatrix}
+a & 2 \\
+3 & a
+\end{pmatrix}=0.
+```
 
 ## Odpowiedź
 
 <!-- Wpisz rozwiązanie poniżej. -->
-
-

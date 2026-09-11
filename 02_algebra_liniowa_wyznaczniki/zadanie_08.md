@@ -1,9 +1,7 @@
 # Zadanie 8
 
-Wiadomo, że dla macierzy $3\times 3$ zachodzi $\det(A)=5$. Oblicz $\det(2A)$.
+Dla odwracalnej macierzy $A$ wiadomo, że $\det A=4$. Oblicz $\det(A^{-1})$.
 
 ## Odpowiedź
 
 <!-- Wpisz rozwiązanie poniżej. -->
-
-

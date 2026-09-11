@@ -2,10 +2,17 @@
 
 Oblicz iloczyn $BA$, gdzie
 
-$$A=\begin{pmatrix}1&0\\2&1\end{pmatrix},\qquad B=\begin{pmatrix}2&-1\\3&4\end{pmatrix}.$$
+```math
+A=\begin{pmatrix}
+1 & -1 \\
+2 & 3
+\end{pmatrix},\qquad
+B=\begin{pmatrix}
+0 & 2 \\
+4 & 1
+\end{pmatrix}.
+```
 
 ## Odpowiedź
 
 <!-- Wpisz rozwiązanie poniżej. -->
-
-

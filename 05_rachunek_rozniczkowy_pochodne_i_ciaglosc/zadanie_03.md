@@ -1,11 +1,16 @@
 # Zadanie 3
 
-Oblicz pochodną funkcji
+Wyznacz wartość parametru $a$, dla której funkcja
 
-$$f(x)=(x^2+1)(3x-2).$$
+```math
+f(x)=\begin{cases}
+x+1, & x<2, \\
+a x-1, & x\ge 2
+\end{cases}
+```
+
+jest ciągła w punkcie $x=2$.
 
 ## Odpowiedź
 
 <!-- Wpisz rozwiązanie poniżej. -->
-
-

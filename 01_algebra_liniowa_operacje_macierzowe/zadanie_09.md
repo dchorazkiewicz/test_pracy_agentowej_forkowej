@@ -1,15 +1,14 @@
 # Zadanie 9
 
-Wyznacz macierz $X$ z równania
+Oblicz $A^2$ dla macierzy
 
-$$2X=A,$$
-
-gdzie
-
-$$A=\begin{pmatrix}6&-2\\4&8\end{pmatrix}.$$
+```math
+A=\begin{pmatrix}
+1 & 2 \\
+0 & 3
+\end{pmatrix}.
+```
 
 ## Odpowiedź
 
 <!-- Wpisz rozwiązanie poniżej. -->
-
-

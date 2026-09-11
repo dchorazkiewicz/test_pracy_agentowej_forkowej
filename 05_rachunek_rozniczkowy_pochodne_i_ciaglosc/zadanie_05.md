@@ -1,11 +1,7 @@
 # Zadanie 5
 
-Oblicz pochodną funkcji
-
-$$f(x)=\sin x+x\cos x.$$
+Oblicz pochodną funkcji $f(x)=(x^2+1)e^x$.
 
 ## Odpowiedź
 
 <!-- Wpisz rozwiązanie poniżej. -->
-
-

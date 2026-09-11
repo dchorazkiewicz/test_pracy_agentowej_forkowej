@@ -1,11 +1,7 @@
 # Zadanie 8
 
-Wyznacz kąt nachylenia do osi $Ox$ prostej
-
-$$y=\sqrt{3}x+2.$$
+Sprawdź, czy punkt $P=(2,3)$ należy do prostej $2x-y-1=0$.
 
 ## Odpowiedź
 
 <!-- Wpisz rozwiązanie poniżej. -->
-
-

@@ -1,11 +1,7 @@
 # Zadanie 3
 
-Oblicz całkę nieoznaczoną
-
-$$\int (2x+1)^3\,dx.$$
+Oblicz całkę $\int x e^x\,dx$ metodą całkowania przez części.
 
 ## Odpowiedź
 
 <!-- Wpisz rozwiązanie poniżej. -->
-
-

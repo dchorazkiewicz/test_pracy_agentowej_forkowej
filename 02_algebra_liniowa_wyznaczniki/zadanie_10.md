@@ -1,13 +1,14 @@
 # Zadanie 10
 
-Oblicz wyznacznik macierzy
+Wyznacz $x$, dla którego wyznacznik poniższej macierzy jest równy $6$.
 
-$$A=\begin{pmatrix}1&2&0\\2&4&1\\0&1&3\end{pmatrix}$$
-
-i na tej podstawie rozstrzygnij, czy macierz $A$ jest odwracalna.
+```math
+\det\begin{pmatrix}
+x & 1 \\
+2 & 4
+\end{pmatrix}=6.
+```
 
 ## Odpowiedź
 
 <!-- Wpisz rozwiązanie poniżej. -->
-
-

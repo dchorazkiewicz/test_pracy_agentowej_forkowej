@@ -1,11 +1,7 @@
 # Zadanie 3
 
-Rozpoznaj powierzchnię opisaną równaniem
-
-$$-\frac{x^2}{4}-\frac{y^2}{9}+\frac{z^2}{16}=1.$$
+Rozpoznaj powierzchnię $z=x^2+y^2$ oraz opisz jej oś i wierzchołek.
 
 ## Odpowiedź
 
 <!-- Wpisz rozwiązanie poniżej. -->
-
-

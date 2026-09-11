@@ -1,11 +1,15 @@
 # Zadanie 5
 
-Wyznacz wartość parametru $a$, dla której
+Sprawdź na podstawie wyznacznika, czy macierz $A$ jest odwracalna.
 
-$$\det\begin{pmatrix}a&2\\3&4\end{pmatrix}=0.$$
+```math
+A=\begin{pmatrix}
+1 & 2 & 3 \\
+0 & 1 & 4 \\
+2 & 0 & 1
+\end{pmatrix}.
+```
 
 ## Odpowiedź
 
 <!-- Wpisz rozwiązanie poniżej. -->
-
-

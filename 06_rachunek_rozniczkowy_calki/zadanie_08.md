@@ -1,9 +1,7 @@
 # Zadanie 8
 
-Oblicz pole obszaru ograniczonego wykresem funkcji $y=x$, osią $Ox$ oraz prostymi $x=0$ i $x=3$.
+Oblicz całkę $\int e^{2x}\,dx$.
 
 ## Odpowiedź
 
 <!-- Wpisz rozwiązanie poniżej. -->
-
-

@@ -1,13 +1,14 @@
 # Zadanie 10
 
-Sprawdź, czy macierze
+Dla macierzy $A$ oblicz $A+A^T$ i sprawdź, czy otrzymana macierz jest symetryczna.
 
-$$A=\begin{pmatrix}1&1\\0&1\end{pmatrix},\qquad B=\begin{pmatrix}2&0\\1&2\end{pmatrix}$$
-
-spełniają równość $AB=BA$.
+```math
+A=\begin{pmatrix}
+1 & 2 \\
+-3 & 4
+\end{pmatrix}.
+```
 
 ## Odpowiedź
 
 <!-- Wpisz rozwiązanie poniżej. -->
-
-

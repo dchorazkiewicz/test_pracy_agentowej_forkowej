@@ -1,11 +1,7 @@
 # Zadanie 7
 
-Oblicz wyznacznik macierzy trójkątnej
-
-$$A=\begin{pmatrix}2&1&-3\\0&4&5\\0&0&-2\end{pmatrix}.$$
+Wiadomo, że $\det A=-2$ i $\det B=5$ dla macierzy kwadratowych tego samego stopnia. Oblicz $\det(AB)$.
 
 ## Odpowiedź
 
 <!-- Wpisz rozwiązanie poniżej. -->
-
-

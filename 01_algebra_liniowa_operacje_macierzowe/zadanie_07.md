@@ -1,11 +1,18 @@
 # Zadanie 7
 
-Oblicz $A^2$ dla macierzy
+Oblicz $2A-B$, gdzie
 
-$$A=\begin{pmatrix}1&1\\0&2\end{pmatrix}.$$
+```math
+A=\begin{pmatrix}
+2 & 1 \\
+-3 & 4
+\end{pmatrix},\qquad
+B=\begin{pmatrix}
+1 & -2 \\
+5 & 0
+\end{pmatrix}.
+```
 
 ## Odpowiedź
 
 <!-- Wpisz rozwiązanie poniżej. -->
-
-

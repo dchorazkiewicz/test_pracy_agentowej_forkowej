@@ -1,11 +1,7 @@
 # Zadanie 7
 
-Oblicz całkę oznaczoną
-
-$$\int_0^\pi \sin x\,dx.$$
+Oblicz całkę $\int \sin x\,dx$ i sprawdź wynik przez różniczkowanie.
 
 ## Odpowiedź
 
 <!-- Wpisz rozwiązanie poniżej. -->
-
-

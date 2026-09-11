@@ -1,11 +1,7 @@
 # Zadanie 6
 
-Oblicz całkę oznaczoną
-
-$$\int_0^2 (x+1)\,dx.$$
+Oblicz pole obszaru ograniczonego wykresem $y=x^2$, osią $Ox$ oraz prostymi $x=0$ i $x=2$.
 
 ## Odpowiedź
 
 <!-- Wpisz rozwiązanie poniżej. -->
-
-

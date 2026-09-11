@@ -1,13 +1,7 @@
 # Zadanie 6
 
-Wyznacz wartości parametru $x$, dla których macierz
-
-$$A=\begin{pmatrix}x&1\\2&x\end{pmatrix}$$
-
-jest osobliwa.
+Macierz $B$ powstała z macierzy $A$ przez zamianę dwóch wierszy. Jeśli $\det A=7$, wyznacz $\det B$ i uzasadnij odpowiedź.
 
 ## Odpowiedź
 
 <!-- Wpisz rozwiązanie poniżej. -->
-
-

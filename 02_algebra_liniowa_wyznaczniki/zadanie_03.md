@@ -1,11 +1,15 @@
 # Zadanie 3
 
-Oblicz wyznacznik macierzy
+Oblicz wyznacznik macierzy trójkątnej
 
-$$A=\begin{pmatrix}1&2&3\\0&1&4\\2&0&1\end{pmatrix}.$$
+```math
+A=\begin{pmatrix}
+2 & 1 & -3 \\
+0 & 5 & 4 \\
+0 & 0 & -2
+\end{pmatrix}.
+```
 
 ## Odpowiedź
 
 <!-- Wpisz rozwiązanie poniżej. -->
-
-
